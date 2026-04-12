@@ -1,0 +1,23 @@
+# hkguide.org — HK Landing Guide
+
+> A free, open-source knowledge hub for mainland China companies and talent landing in Hong Kong. Covers government subsidies (BUD, TVP, EMF, ITSP), company setup, talent visa schemes (TTPS, QMAS, ASMTP, TechTAS), family settlement, and children's education pathways.
+
+This site is maintained as a public resource. Content is factual, government-source-cited, and regularly updated. Licensed CC BY 4.0.
+
+## Sections
+
+- /zh-hans/subsidies/ — 香港政府补贴资助指南 (BUD, TVP, EMF, 科学园, 数码港)
+- /zh-hans/company/ — 公司注册与落地操作
+- /zh-hans/talent/ — 人才签证计划 (高才通, 优才, 专才, 科技人才)
+- /zh-hans/family/ — 家庭安置 (受养人, 子女入学, 医疗, 住房)
+- /zh-hans/going-global/ — 出海架构与税务优惠
+- /en/subsidies/ — HK government funding programmes
+- /en/company/ — Company registration & setup
+- /en/talent/ — Talent admission schemes
+- /en/family/ — Family settlement guide
+- /en/going-global/ — Going global from HK
+
+## Source
+
+- GitHub: https://github.com/rayc0/hk-landing-guide
+- License: CC BY 4.0
