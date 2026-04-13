@@ -6,16 +6,26 @@ This site is maintained as a public resource. Content is factual, government-sou
 
 ## Sections
 
-- /zh-hans/subsidies/ — 香港政府补贴资助指南 (BUD, TVP, EMF, 科学园, 数码港)
+- /zh-hans/subsidies/ — 香港政府补贴资助指南
+  - bud-fund.md — BUD 专项基金：最高700万港元资助
+  - tvp-technology-voucher.md — TVP 科技券：60万港元助中小企数字化
+  - emf-marketing-fund.md — EMF 中小企业市场推广基金
+  - hkstp-cyberport-incubation.md — 科学园与数码港：3年免租+100万概念验证
+  - innovation-guiding-fund.md — 100亿创科产业引导基金
 - /zh-hans/company/ — 公司注册与落地操作
-- /zh-hans/talent/ — 人才签证计划 (高才通, 优才, 专才, 科技人才)
-- /zh-hans/family/ — 家庭安置 (受养人, 子女入学, 医疗, 住房)
+  - register-hk-company.md — 内地企业注册香港公司完整指南
+- /zh-hans/talent/ — 人才签证计划
+  - ttps-high-talent-pass.md — 高才通（TTPS）三类通道指南
+  - qmas-quality-migrant.md — 优才计划（QMAS）2026新政12项准则
+- /zh-hans/family/ — 家庭安置
+  - children-education-pathway.md — 来港人才子女教育全景
 - /zh-hans/going-global/ — 出海架构与税务优惠
-- /en/subsidies/ — HK government funding programmes
-- /en/company/ — Company registration & setup
-- /en/talent/ — Talent admission schemes
-- /en/family/ — Family settlement guide
-- /en/going-global/ — Going global from HK
+  - hk-as-launchpad.md — 从香港出海：全球化跳板
+- /en/subsidies/ — HK government funding programmes (coming soon)
+- /en/company/ — Company registration & setup (coming soon)
+- /en/talent/ — Talent admission schemes (coming soon)
+- /en/family/ — Family settlement guide (coming soon)
+- /en/going-global/ — Going global from HK (coming soon)
 
 ## Source
 
