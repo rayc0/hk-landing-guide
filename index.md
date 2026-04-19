@@ -4,6 +4,18 @@ description: "内地企业及创业者赴港指南：公司注册、政府资助
 lang: zh-Hans
 ---
 
+<style>
+.lang-bar{background:#1a1a2e;padding:8px 16px;text-align:right;font-size:13px;position:sticky;top:0;z-index:999}
+.lang-bar a{color:#a8d8ea;text-decoration:none;margin:0 6px;padding:3px 8px;border-radius:3px;transition:background .2s}
+.lang-bar a:hover,.lang-bar a.active{background:#16213e;color:#fff}
+.lang-bar span{color:#555;margin:0 2px}
+</style>
+<div class="lang-bar">
+  <a href="/zh-hans/">简体中文</a> <span>|</span>
+  <a href="/zh-hant/">繁體中文</a> <span>|</span>
+  <a href="/en/">English</a>
+</div>
+
 <script>
 (function(){
   if(window.location.pathname !== '/') return;
