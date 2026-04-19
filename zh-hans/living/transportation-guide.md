@@ -1,7 +1,7 @@
 ---
 title: "香港交通指南：MTR地铁、巴士、的士、渡轮与八达通使用攻略"
 description: "香港交通完整指南（简体中文）— MTR线路和通勤技巧（候车位置/八达通月票/早鸟优惠）、巴士和小巴系统、的士颜色和收费规则（市区红/新界绿/大屿山蓝）、渡轮（天星小轮/港岛-离岛路线）、八达通（Octopus Card）使用技巧和充值方式、高铁西九龙站使用攻略（往返内地）、共享单车和步行可达性"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: "living"
 last_updated: "2026-04-18"

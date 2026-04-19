@@ -1,7 +1,7 @@
 ---
 title: "携家赴港：香港家庭生活指南、社区资源与内地专才适应攻略"
 description: "香港家庭生活完整指南（简体中文）— 香港家庭生活文化差异（内地vs香港的生活节奏/社区氛围/邻里关系）、香港家庭常用社区设施（图书馆/户外公园/康乐中心）、子女课外活动（才艺班/体育/STEM）、外籍家庭社群和内地人社区（微信群/同乡会/家长群）、语言适应（广东话vs普通话vs英语）、家庭财务规划建议"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hans"
 category: "family"
 last_updated: "2026-04-18"

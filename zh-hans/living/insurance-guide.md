@@ -1,7 +1,7 @@
 ---
 title: "香港保险指南：医疗、家居、人寿、强积金与内地专才必备保障"
 description: "香港保险体系完整指南（简体中文）— 雇主医疗保险 vs 自购个人医疗险（AIA/AXA/BUPA/Blue Cross比较）、VHIS自愿医保计划（政府认可/税务扣减/每人最高港幣8,000/年）、家居保险（租客和业主的不同需求）、人寿保险在港的特点（储蓄型保险受高净值人士青睐）、强积金（MPF）基金选择与管理、无证病史申报的重要性、从内地转移保单的限制"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hans"
 category: "living"
 last_updated: "2026-04-18"

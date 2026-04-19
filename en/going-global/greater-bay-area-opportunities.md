@@ -1,7 +1,7 @@
 ---
 title: "Greater Bay Area Opportunities: Using Hong Kong as Your Gateway to Southern China's Economic Powerhouse"
 description: "How Hong Kong serves as the gateway to the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) — the 11-city economic zone with 86 million people and USD 1.9 trillion GDP. Key industries, cross-border policies, and strategic positioning."
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "en"
 category: "going-global"
 last_updated: "2026-04-17"

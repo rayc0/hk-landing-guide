@@ -1,7 +1,7 @@
 ---
 title: "香港外佣（家庭佣工）指南：招聘、合同、薪资规定与常见陷阱"
 description: "香港外籍家庭佣工完整指南（简体中文）— 外佣法定最低工资（2026年标准：港幣4,990元/月）、强制假日和标准合同条款、通过外佣中介 vs 直接招聘的区别、外佣食宿安排要求（雇主须提供住宿）、外佣工作签证续期流程、解雇外佣的法律程序、常见雇主违规行为和劳工处投诉机制"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: "family"
 last_updated: "2026-04-18"

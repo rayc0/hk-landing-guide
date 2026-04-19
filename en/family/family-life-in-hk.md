@@ -1,7 +1,7 @@
 ---
 title: "Family Life in Hong Kong: What Relocating Families Should Know"
 description: "An honest overview of family life in Hong Kong — international schools, recreational activities, safety, community networks, cost of living, and why HK remains a compelling destination for families relocating from Taiwan, Southeast Asia, and beyond."
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "family"
 last_updated: "2026-04-18"

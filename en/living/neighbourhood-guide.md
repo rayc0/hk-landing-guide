@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Neighbourhood Guide for New Arrivals: Choosing the Right District by Budget and Lifestyle"
 description: "Hong Kong district guide for new arrivals and talent visa holders — key residential districts comparison (Hong Kong Island/Kowloon/New Territories), rent ranges by district 2025, commute times to CBD, school catchment considerations, expat vs local mix, what each district is known for"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "living"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "以香港為跳板進入中國市場：大灣區機遇、CEPA優惠與跨境業務實戰"
 description: "香港企業和新移民如何善用大灣區（GBA）、CEPA協議優惠、跨境人才流動、前海與南沙特區，以及通過香港進入中國市場的實際考量"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hant"
 category: "going-global"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "Virtual Offices and Registered Addresses in Hong Kong: What New Businesses Need to Know"
 description: "Guide to virtual office services in Hong Kong for new businesses and remote entrepreneurs — registered address requirements, mail handling, meeting room access, co-working hubs, costs, and legitimate use cases"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "en"
 category: "company"
 last_updated: "2026-04-18"

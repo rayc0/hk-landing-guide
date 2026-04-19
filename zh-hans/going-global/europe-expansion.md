@@ -1,7 +1,7 @@
 ---
 title: "从香港拓展至欧洲：英国、德国、荷兰和爱尔兰的市场进入策略"
 description: "香港企业拓展欧洲市场完整指南（简体中文）— 欧盟4.5亿消费者市场、脱欧后香港-英国关系（UKTFS协议/英国国家海外护照待遇）、荷兰作为欧盟进入跳板（最低税率/英文环境/物流枢纽）、爱尔兰科技税务优势（12.5%企业税率）、欧盟GDPR合规对香港企业的影响、欧洲合规认证（CE认证/食品安全标准）、欧洲市场常见陷阱（分散市场/语言/监管差异）"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hans"
 category: "going-global"
 last_updated: "2026-04-18"

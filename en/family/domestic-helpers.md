@@ -1,7 +1,7 @@
 ---
 title: "Hiring a Domestic Helper in Hong Kong: What New Arrivals Need to Know"
 description: "Guide to Hong Kong's foreign domestic helper system for new arrivals — eligibility, salary and accommodation requirements, nationality options (Philippines, Indonesia), live-in rule, days off, and the opportunity to get professional childcare and household support"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "family"
 last_updated: "2026-04-18"

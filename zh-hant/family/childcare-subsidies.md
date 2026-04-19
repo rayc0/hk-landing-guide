@@ -1,7 +1,7 @@
 ---
 title: "香港幼兒照顧資助全攻略：新來港人士及高才通持有人必讀"
 description: "香港幼兒照顧費用資助指南 — 幼兒中心資助計劃（CCSS/加強版）、幼稚園學費減免計劃、本地幼稚園 vs 國際幼稚園費用比較、高才通/優才計劃持有人資格、外傭托兒方案"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "family"
 canonical: "https://hkguide.org/zh-hant/family/childcare-subsidies"

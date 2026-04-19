@@ -1,7 +1,7 @@
 ---
 title: "Housing Allowance and Accommodation for Talent in Hong Kong: Market Rates, Employer Packages, and Neighbourhood Guide"
 description: "Complete guide to housing arrangements for talent relocating to Hong Kong — employer housing allowance structures (15-25% of salary), serviced apartments vs. rental market, typical neighbourhood choices by company type and budget, rental market rates by district (2025), tenancy deposit and agent fee practices, how to negotiate housing as part of your offer package"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "en"
 category: "talent"
 last_updated: "2026-04-18"

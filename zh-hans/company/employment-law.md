@@ -1,7 +1,7 @@
 ---
 title: "香港劳工法简介：雇员权益、雇主义务与内地雇主需了解的关键差异"
 description: "香港劳工法完整指南（简体中文）— 《雇佣条例》核心雇员权益（年假/病假/法定假期/产假/遣散费）、试用期安排、终止雇用规定（通知期/代通知金）、最低工资（2024年HK$40/小时）、禁止歧视法规、雇主违规风险、香港劳工法与内地劳动法的主要差异对比表、外籍雇员适用范围"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hans"
 category: "company"
 last_updated: "2026-04-18"

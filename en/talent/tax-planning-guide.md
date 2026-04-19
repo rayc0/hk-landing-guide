@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Tax Planning Guide: Corporate and Personal Tax Strategies for New Residents and Businesses"
 description: "Comprehensive Hong Kong tax planning guide for businesses and new residents — Hong Kong's territorial tax system (only HK-source income taxed), corporate profits tax 16.5% (8.25% for first HK$2M), salaries tax rates and allowances table, no capital gains/inheritance/GST/VAT, tax planning strategies for HK companies with overseas revenue, MPF obligations, 3-year tax residency assessment"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "en"
 category: "talent"
 last_updated: "2026-04-18"

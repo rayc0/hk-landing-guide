@@ -1,7 +1,7 @@
 ---
 title: "香港僱傭法例要點：每位僱主必須了解的關鍵條款"
 description: "香港《僱傭條例》概覽 — 法定假期、強積金、解僱規定、反歧視保障，以及為何香港勞工法規既利商又護民。"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "company"
 last_updated: "2026-04-18"

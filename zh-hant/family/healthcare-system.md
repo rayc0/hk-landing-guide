@@ -1,7 +1,7 @@
 ---
 title: "香港醫療體系全解析：新來港人士必讀"
 description: "香港公私營雙軌醫療體系概覽 — 醫管局服務、私營醫療選擇、醫療保險市場，以及為何香港醫療基建屬世界級水準。"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hant"
 category: "family"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Entrepreneurship Guide: Cyberport, HKSTP, InvestHK and Startup Funding Landscape"
 description: "Guide to Hong Kong's startup ecosystem for entrepreneurs — comparison of Cyberport vs Hong Kong Science and Technology Parks (HKSTP) incubation programmes, InvestHK StartmeupHK support, government innovation funding (Innovation and Technology Fund), angel and VC landscape, company incorporation for startups, and why Hong Kong is a viable launchpad for Greater Bay Area and Southeast Asia expansion"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "talent"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "香港僱員福利指南：強積金、法定假期與具競爭力的福利方案"
 description: "香港僱員福利完全指南（繁體中文）— 強積金供款比例與僱主義務、法定年假病假侍產假，具競爭力的自願性福利（醫療保險/牙科/房屋津貼）、中小企 vs 跨國企業福利比較、如何設計吸引高才通/優才計劃人才的福利方案"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hant"
 category: "company"
 last_updated: "2026-04-18"

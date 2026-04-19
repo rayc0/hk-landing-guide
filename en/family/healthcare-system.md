@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Healthcare System: What Newcomers Need to Know"
 description: "A comprehensive overview of Hong Kong's dual public-private healthcare system — Hospital Authority services, private healthcare options, health insurance landscape, and what makes HK's medical infrastructure world-class."
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "family"
 last_updated: "2026-04-18"

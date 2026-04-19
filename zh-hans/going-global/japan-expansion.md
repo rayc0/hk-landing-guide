@@ -1,7 +1,7 @@
 ---
 title: "从香港拓展至日本：市场进入策略、监管合规与香港企业的独特优势"
 description: "香港企业拓展日本市场完整指南（简体中文）— 日本3.5万亿美元GDP市场机遇、香港-日本FTA（JPHKCEPA）关税减免、香港企业在日本的品牌定位优势（非直接中国品牌）、美食/化妆品/科技/专业服务四大高潜力行业、日本合规要求（食品安全/医疗器械/化妆品监管）、日语障碍的应对策略、本地合作伙伴寻找途径"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hans"
 category: "going-global"
 last_updated: "2026-04-18"

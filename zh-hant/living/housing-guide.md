@@ -1,7 +1,7 @@
 ---
 title: "香港租屋指南：地區比較、租金水平與新移民必知實用資訊"
 description: "新移民香港租屋完整攻略 — 各區租金比較、地鐵站溢價、地產代理運作方式、典型單位配置，以及新移民常犯的選屋錯誤"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hant"
 category: "living"
 last_updated: "2026-04-18"

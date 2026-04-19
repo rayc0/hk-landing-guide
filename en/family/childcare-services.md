@@ -1,7 +1,7 @@
 ---
 title: "Childcare in Hong Kong: Nurseries, International Kindergartens and After-School Options for New Arrivals"
 description: "Guide to childcare services for new arrivals in Hong Kong — nurseries and crèches, kindergarten (local vs international), playgroups, after-school care (課後托管), childcare subsidies, and how the foreign domestic helper system enables working parents"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "en"
 category: "family"
 last_updated: "2026-04-18"

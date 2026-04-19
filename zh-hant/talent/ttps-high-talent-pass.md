@@ -1,7 +1,7 @@
 ---
 title: "香港高端人才通行證計劃（高才通 TTPS）完整指南"
 description: "深入解析香港高才通計劃三大類別、申請資格、簽證期限，及與優才計劃、一般就業政策的全面比較，助頂尖專才了解香港引才政策的戰略佈局。"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hant"
 category: "talent"
 last_updated: "2026-04-17"

@@ -1,7 +1,7 @@
 ---
 title: "Employee Benefits in Hong Kong: Mandatory vs Voluntary Benefits for Companies and Talent"
 description: "Hong Kong employee benefits complete guide — MPF mandatory provident fund employer obligations, statutory annual leave and sick leave entitlements, maternity and paternity leave HK law, standard vs competitive benefit packages, benchmark voluntary benefits (medical insurance/dental/housing allowance), SME vs MNC benefits comparison, considerations for talent attraction under TTPS/QMAS"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "en"
 category: "company"
 last_updated: "2026-04-18"

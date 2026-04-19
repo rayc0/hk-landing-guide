@@ -1,7 +1,7 @@
 ---
 title: "子女教育路徑規劃指南 — 香港學制、國際學校與升學選擇"
 description: "全面介紹香港本地及國際教育體系、各類學校類型與學費範圍，協助新移民家長在移居決策前掌握子女教育全貌。"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "family"
 last_updated: "2026-04-18"

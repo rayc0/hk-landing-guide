@@ -1,7 +1,7 @@
 ---
 title: "香港職場文化指南：辦公室規範、層級制度與職業晉升策略"
 description: "香港職場文化完整指南 — 辦公室層級制度與溝通風格、長工時文化的實際現狀、與本地及國際同事建立關係的方法、廣東話英語混合使用習慣、以及在香港職場晉升的實用策略"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hant"
 category: "talent"
 last_updated: "2026-04-18"

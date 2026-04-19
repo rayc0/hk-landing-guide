@@ -1,7 +1,7 @@
 ---
 title: "粵港澳大灣區機遇：以香港為跳板進入華南經濟圈"
 description: "全面介紹粵港澳大灣區的經濟格局、十一個核心城市的產業定位、跨境政策框架，以及香港在整個大灣區生態系統中的獨特樞紐角色。"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "going-global"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Top Talent Pass Scheme (TTPS): What High Earners and Top Graduates Need to Know"
 description: "A comprehensive guide to Hong Kong's Top Talent Pass Scheme — eligibility, categories, visa duration, and how it compares to QMAS and GEP for global professionals."
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "en"
 category: "talent"
 last_updated: "2026-04-17"

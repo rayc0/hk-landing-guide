@@ -1,7 +1,7 @@
 ---
 title: "香港住房津贴指南：现金补贴 vs 公司安排住宿、税务处理与谈判技巧"
 description: "香港住房津贴完整指南（简体中文）— 现金住房津贴 vs 公司安排住宿的税务差异（10%规则）、雇主住房福利市场标准（港幣10,000–40,000/月）、住房津贴在薪酬谈判中的定位、与按揭贷款资格的关系、高才通/优才持有人享有的住房安排选项、服务式公寓 vs 长期租赁的成本比较、实际案例计算"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hans"
 category: "talent"
 last_updated: "2026-04-18"

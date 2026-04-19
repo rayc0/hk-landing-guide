@@ -1,7 +1,7 @@
 ---
 title: "香港稅務規劃指南：新移民及企業必知的稅務優惠與合規策略"
 description: "香港稅務規劃完整指南 — 地域來源課稅制度（只向香港來源收入課稅），利得稅16.5%（首200萬港元8.25%兩級制），薪俸稅稅率及免稅額表，無資本增值稅·遺產稅·消費稅，境外收入稅務規劃，強積金（MPF）義務，成立控股公司架構的稅務考量，香港 vs 新加坡稅務比較"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hant"
 category: "talent"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "香港水电煤气网络开通指南：账单设置、供应商选择与常见问题"
 description: "香港家居公用设施完整指南（简体中文）— 电力（港灯 vs 中华电力供应区域划分）、煤气（香港中华煤气公司）、自来水（水务署供应/按单位收费）、宽带网络（HGC/HKBN/PCCW/MyLink比较/1Gbps费用约港幣150–250元/月）、手机SIM卡选择（3HK/csl/SmarTone/MVNO）、电力账单节省技巧（分时电价/空调用电大户）、搬入时的水电开通流程"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: "living"
 last_updated: "2026-04-18"

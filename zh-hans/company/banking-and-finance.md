@@ -1,7 +1,7 @@
 ---
 title: "香港公司银行开户指南：主流银行、开户要求与境内外汇款"
 description: "内地企业主在香港开设公司银行账户的完整指南，涵盖主流银行比较、KYC合规要求、虚拟银行选择及跨境汇款通道。"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hans"
 category: company
 last_updated: "2026-04-19"

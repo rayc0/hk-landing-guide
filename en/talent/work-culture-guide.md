@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Work Culture Guide: Office Norms, Hierarchy, Work-Life Balance and Career Advancement"
 description: "Hong Kong workplace culture guide for new arrivals — office hierarchy and communication styles, long working hours culture, relationship-building with local and international colleagues, Cantonese-English code-switching in the workplace, and strategies for career advancement in Hong Kong"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "en"
 category: "talent"
 last_updated: "2026-04-18"

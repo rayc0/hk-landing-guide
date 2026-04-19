@@ -1,7 +1,7 @@
 ---
 title: "註冊香港公司完整指南 — 公司類型、要求與稅務優勢"
 description: "深入解析為何香港是亞太區最具吸引力的營商地點：低稅率制度、普通法體系、自由港地位，以及作為中國市場門戶的獨特優勢，協助台灣及港澳企業家評估在港設立公司的可行性。"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hant"
 category: "company"
 last_updated: "2026-04-18"

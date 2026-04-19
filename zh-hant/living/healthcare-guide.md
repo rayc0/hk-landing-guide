@@ -1,7 +1,7 @@
 ---
 title: "香港醫療體系指南：公立vs私立、普通科診所與新移民必知事項"
 description: "香港醫療體系完整指南 — 醫院管理局公立醫院與私家診所比較、急診費用（HK$180）、醫療保險選擇、牙科及精神健康服務，以及如何在香港找到合適的家庭醫生"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "living"
 last_updated: "2026-04-18"

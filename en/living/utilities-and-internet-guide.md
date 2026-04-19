@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Utilities and Internet Guide: Electricity, Gas, Broadband and Mobile Plans 2026"
 description: "Practical guide to setting up utilities in Hong Kong — electricity providers (CLP vs HKE), gas setup (Town Gas vs LPG), water charges, broadband internet providers comparison (HKBN, HGC, SmarTone), mobile phone plans, average monthly costs, and tips for new residents"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "living"
 last_updated: "2026-04-18"

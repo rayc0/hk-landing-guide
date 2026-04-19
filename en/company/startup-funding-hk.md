@@ -1,7 +1,7 @@
 ---
 title: "Startup Funding in Hong Kong: Cyberport, HKSTP, Government Grants, and VC Landscape"
 description: "Complete guide to startup funding in Hong Kong — Cyberport Incubation Programme, HKSTP Incubation Programme, InnoHK research clusters, SME development fund, TBSS (Technology Business Support Scheme), BUD fund, Hong Kong VC ecosystem overview, GBA startup corridors, Series A landscape for tech startups"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "company"
 last_updated: "2026-04-18"

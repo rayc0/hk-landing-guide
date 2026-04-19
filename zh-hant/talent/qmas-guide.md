@@ -1,7 +1,7 @@
 ---
 title: "香港優秀人才入境計劃（QMAS）完整指南 — 免僱主擔保移居香港"
 description: "深入解析香港優秀人才入境計劃（QMAS）的計分制度、資格要求、兩條申請軌道，以及與高端人才通行證計劃（高才通）、一般就業政策的比較，助台灣及港澳專業人士全面了解移居香港的機遇。"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hant"
 category: "talent"
 last_updated: "2026-04-17"

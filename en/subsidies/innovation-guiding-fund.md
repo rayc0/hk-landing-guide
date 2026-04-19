@@ -1,7 +1,7 @@
 ---
 title: "Innovation and Technology Fund (ITF): Hong Kong's R&D Funding Ecosystem"
 description: "Complete guide to Hong Kong's Innovation and Technology Fund — Enterprise Support Scheme, ITSP, Guangdong-Hong Kong Technology Cooperation, and how ITF relates to TVP and other tech subsidies."
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "en"
 category: "subsidies"
 last_updated: "2026-04-18"

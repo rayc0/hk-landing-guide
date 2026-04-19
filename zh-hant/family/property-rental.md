@@ -1,7 +1,7 @@
 ---
 title: "香港租屋指南：新來港人士租樓必備知識"
 description: "香港租務市場全面概覽 — 各區比較、典型租金、租約結構、按金慣例，以及新來港人士在全球最活躍地產市場中的實用參考。"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "family"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "香港作为非洲市场进入跳板：贸易通道、法律结构与风险管理"
 description: "内地企业如何借助香港的融资平台、法律体系与贸易网络，安全高效地进入非洲重点市场，涵盖南非、肯尼亚、尼日利亚、埃及的进入路径与风险管控策略。"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hans"
 category: "going-global"
 last_updated: "2026-04-19"

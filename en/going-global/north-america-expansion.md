@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Businesses Expanding to North America: US vs Canada Market Entry Strategy"
 description: "Guide for Hong Kong businesses entering North American markets — comparison of US vs Canada as first entry point, Delaware vs Ontario company structures, Silicon Valley vs Toronto tech ecosystems, immigration pathways for HK founders (E-1/E-2 visa, O-1, Canada SUV), tax implications, and sector-specific opportunities in fintech, healthtech, and consumer goods"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "going-global"
 last_updated: "2026-04-18"

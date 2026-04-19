@@ -1,7 +1,7 @@
 ---
 title: "Why Hong Kong Is Still the Best Place to Register Your Company"
 description: "A comprehensive guide for mainland Chinese entrepreneurs and international business owners on why Hong Kong remains one of the world's premier jurisdictions for company incorporation — covering tax advantages, legal framework, company types, and structural requirements."
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "en"
 category: "company"
 last_updated: "2026-04-17"

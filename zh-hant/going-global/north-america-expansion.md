@@ -1,7 +1,7 @@
 ---
 title: "香港企業北美擴張指南：美國vs加拿大市場進入策略比較"
 description: "香港企業進軍北美完整指南 — 美國vs加拿大作為首選入市點的比較，Delaware C-Corp vs 加拿大公司架構，矽谷vs多倫多科技生態，香港創辦人移民途徑（E-2投資簽證、O-1A、加拿大創業簽證SUV），稅務架構考量，以及金融科技、健康科技、消費品的市場機遇分析"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "going-global"
 last_updated: "2026-04-18"

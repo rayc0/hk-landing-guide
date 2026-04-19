@@ -1,7 +1,7 @@
 ---
 title: "Schooling for Children in Hong Kong: International Schools, ESF, and Government School Options"
 description: "Complete guide to schooling options in Hong Kong for expat and mainland families — ESF (English Schools Foundation) vs international schools vs DSS schools, tuition fee comparison, admission timeline, waiting lists, IB vs IGCSE vs DSE pathway, Gaokao-recognized schools, kindergarten through secondary options, school district considerations"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "living"
 last_updated: "2026-04-18"

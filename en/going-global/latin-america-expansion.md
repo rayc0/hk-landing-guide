@@ -1,7 +1,7 @@
 ---
 title: "Expanding to Latin America from Hong Kong: Brazil, Mexico, Chile, and Colombia Entry Strategies"
 description: "Hong Kong companies expanding to Latin America — Brazil (fintech/agritech, tariff reality), Mexico (nearshoring supply chain), Chile (Pacific Alliance gateway, FTA with 65 countries), Colombia (underrated startup hub), HK neutral brand advantage, entry mode comparison, common pitfalls (forex controls, payment risk, language barrier, labour law complexity)"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "en"
 category: "going-global"
 last_updated: "2026-04-18"

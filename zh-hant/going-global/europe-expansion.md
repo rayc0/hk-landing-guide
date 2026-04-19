@@ -1,7 +1,7 @@
 ---
 title: "香港企業歐洲擴張指南：德國、荷蘭、英國作為歐洲據點的比較與市場進入策略"
 description: "香港企業進軍歐洲完整指南 — 德國vs荷蘭vs英國作為歐洲總部的比較（成本、人才、歐盟市場准入），GDPR數據合規基礎，CE認證要求，金融科技與初創企業在柏林/阿姆斯特丹/倫敦的機遇，英港雙重課稅協定，以及BN(O)持有人在英國擴展業務的獨特優勢"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "going-global"
 last_updated: "2026-04-18"

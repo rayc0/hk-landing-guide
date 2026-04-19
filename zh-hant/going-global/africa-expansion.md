@@ -1,7 +1,7 @@
 ---
 title: "香港企業拓展非洲市場：重點市場、進入策略與政府支援"
 description: "香港企業拓展非洲市場完整指南 — 四大重點市場（尼日利亞、肯雅、南非、埃及）、中非貿易走廊、香港貿發局非洲資源、一帶一路基建機遇、市場規模、法律架構設立、香港中小企常見陷阱"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "going-global"
 last_updated: "2026-04-18"

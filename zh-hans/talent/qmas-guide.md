@@ -1,7 +1,7 @@
 ---
 title: "香港优秀人才入境计划（QMAS）— 无需雇主担保的移民通道"
 description: "QMAS优才计划详解：综合计分制与成就计分制评分标准、年度配额、与高才通的区别。大陆专业人士移港核心通道之一。"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hans"
 category: "talent"
 last_updated: "2026-04-17"

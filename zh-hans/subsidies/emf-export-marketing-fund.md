@@ -1,7 +1,7 @@
 ---
 title: "香港中小企业市场推广基金（EMF）— 出海补贴最高80万港元"
 description: "EMF中小企业市场推广基金详解：最高累计资助HK$800,000、参展补贴、网上推广、申请资格。大陆企业家注册香港公司后可申请的核心补贴之一。"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hans"
 category: "subsidies"
 last_updated: "2026-04-17"

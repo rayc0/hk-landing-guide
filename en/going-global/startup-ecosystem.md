@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Startup Ecosystem: Innovation Hubs, Funding, and Why HK Matters for Tech"
 description: "An overview of Hong Kong's startup ecosystem — Cyberport, HKSTP, incubation programmes, venture capital landscape, unicorns, and what makes HK an increasingly compelling base for tech founders."
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "en"
 category: "going-global"
 last_updated: "2026-04-18"

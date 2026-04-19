@@ -1,7 +1,7 @@
 ---
 title: "香港薪酬水平参考（2025年）：各行业职位薪资范围与薪酬结构解析"
 description: "香港薪酬完整指南（简体中文）— 2025年金融/科技/专业服务/医疗各行业薪资中位数、香港与内地薪资比较、薪酬结构（基薪/年终奖/强积金/医疗/住房津贴）、内地专才来港薪资期望调整指南、谈薪技巧、Tax-efficient薪酬结构安排"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hans"
 category: "talent"
 last_updated: "2026-04-18"

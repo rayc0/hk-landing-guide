@@ -1,7 +1,7 @@
 ---
 title: "香港税制优势详解：为什么全球企业家选择香港？"
 description: "香港税制完整解析 — 利得税8.25%/16.5%两级制、无增值税、无资本利得税、离岸豁免。与大陆/新加坡/爱尔兰税率对比。"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: "company"
 last_updated: "2026-04-17"

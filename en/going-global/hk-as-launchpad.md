@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong as a Business Launchpad: Why Companies Use HK to Go Global"
 description: "Strategic analysis of Hong Kong's role as a global business launchpad — common law jurisdiction, convertible currency, time zone advantage, CEPA framework, FTA network, and who benefits most."
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "going-global"
 last_updated: "2026-04-18"

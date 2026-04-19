@@ -1,7 +1,7 @@
 ---
 title: "以香港為跳板走向國際 — 企業出海戰略指南"
 description: "深入分析香港作為企業國際化跳板的核心優勢，涵蓋法律制度、金融環境、時區優勢、貿易協定網絡及實際案例，助企業制定精準出海策略。"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "going-global"
 last_updated: "2026-04-18"

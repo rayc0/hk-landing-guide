@@ -1,7 +1,7 @@
 ---
 title: "香港銀行開戶指南：滙豐、恒生、ZA Bank比較及新移民開戶須知"
 description: "香港新移民銀行開戶完整指南 — 滙豐、恒生、中銀香港、渣打與ZA Bank、WeLab、Mox Bank虛擬銀行比較，開戶所需文件清單，月費及最低存款要求，跨境人民幣服務，以及無本地信用記錄新移民的最佳銀行選擇"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hant"
 category: "living"
 last_updated: "2026-04-18"

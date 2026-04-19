@@ -1,7 +1,7 @@
 ---
 title: "BUD專項基金完整指南 — 品牌升級及內銷資助計劃"
 description: "全面介紹BUD專項基金兩大計劃（內地計劃及自貿協定計劃），涵蓋資助上限、合資格開支、生產力促進局管理機制、實際案例，並與TVP及EMF作比較，助香港企業掌握開拓市場的關鍵資源。"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hant"
 category: "subsidies"
 last_updated: "2026-04-18"

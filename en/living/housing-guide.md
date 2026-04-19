@@ -1,7 +1,7 @@
 ---
 title: "Finding Housing in Hong Kong: Districts, Rental Costs and What New Arrivals Should Know"
 description: "Complete guide to renting in Hong Kong for new arrivals — district comparison, typical flat costs by area, MTR proximity premium, how estate agents work, and common mistakes to avoid"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "living"
 last_updated: "2026-04-18"

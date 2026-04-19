@@ -1,7 +1,7 @@
 ---
 title: "香港虛擬辦公室與註冊地址：新企業必知指南"
 description: "香港虛擬辦公室服務指南 — 公司註冊地址法律要求、郵件處理服務、會議室使用、主要商業區比較、費用，以及虛擬辦公室的合法使用場景"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hant"
 category: "company"
 last_updated: "2026-04-18"

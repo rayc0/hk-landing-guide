@@ -1,7 +1,7 @@
 ---
 title: "香港教育体制指南：本地学校、国际学校、学费与升学路径"
 description: "内地家长为子女规划香港教育的完整指南，涵盖学制介绍、公立资助与国际学校费用对比、DSE升学路径及跨境学童政策。"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: family
 last_updated: "2026-04-19"

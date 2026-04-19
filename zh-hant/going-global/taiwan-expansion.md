@@ -1,7 +1,7 @@
 ---
 title: "以香港為基地拓展台灣市場：機遇、優勢與實務考量"
 description: "香港企業進軍台灣市場完整指引 — 香港作為台灣市場進入平台的獨特優勢、適合拓台的行業分析、香港與台灣商業文化差異、以及在台建立據點的實務考量"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "going-global"
 last_updated: "2026-04-18"

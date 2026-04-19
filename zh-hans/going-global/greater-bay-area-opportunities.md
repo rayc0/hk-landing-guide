@@ -1,7 +1,7 @@
 ---
 title: "粤港澳大湾区机遇：香港公司的独特优势与进入策略"
 description: "大湾区商业机遇详解 — 前海/横琴/南沙政策红利、税收优惠、人才补贴。香港注册公司在GBA的独特优势与布局策略。"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: "going-global"
 last_updated: "2026-04-17"

@@ -1,7 +1,7 @@
 ---
 title: "香港医疗体系指南：公立医院、私家诊所、医疗保险与内地专才常见问题"
 description: "香港医疗体系完整指南（简体中文）— 公立医院（医管局HA）vs私家医院费用和等候时间比较、私家医疗保险选择（团体保险vs个人保险）、门诊GP vs专科流程、急诊室使用规则、香港vs内地医疗差异（无自费药/处方药vs OTC）、牙科医疗安排、精神健康服务、内地专才最常问的10个香港医疗问题"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hans"
 category: "living"
 last_updated: "2026-04-18"

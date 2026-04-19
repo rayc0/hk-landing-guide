@@ -1,7 +1,7 @@
 ---
 title: "香港企業東南亞擴張指南：新加坡、馬來西亞、泰國與越南市場進入策略"
 description: "香港企業東南亞（SEA）市場擴張完整指南 — 新加坡作為區域總部優勢，馬來西亞數字游牧簽證與低成本商業環境，泰國LTR簽證與Bangkok科技生態系統，越南製造業轉移機遇，香港 vs 新加坡 vs 吉隆坡區域總部設立比較，東南亞市場進入常見挑戰"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hant"
 category: "going-global"
 last_updated: "2026-04-18"

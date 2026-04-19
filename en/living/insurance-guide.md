@@ -1,7 +1,7 @@
 ---
 title: "Insurance in Hong Kong: Health, Life and Home Insurance Guide for New Arrivals"
 description: "Complete insurance guide for new arrivals in Hong Kong — voluntary health insurance (VHIS), employer-provided vs individual medical plans, life insurance market overview, mandatory insurance (MPF/vehicle), home contents insurance, expat considerations, insurance comparison tips"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "en"
 category: "living"
 canonical: "https://hkguide.org/en/living/insurance-guide"

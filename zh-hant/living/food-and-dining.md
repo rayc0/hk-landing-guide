@@ -1,7 +1,7 @@
 ---
 title: "香港飲食文化全攻略：茶餐廳、大排檔、街頭小食與飲食習慣指南"
 description: "香港飲食文化完整指南 — 茶餐廳餐牌解讀、大排檔文化、中西飲食融合、外賣App使用、清真與素食選擇，以及新移民在香港找到心儀食肆的實用貼士"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "living"
 last_updated: "2026-04-18"

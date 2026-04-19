@@ -1,7 +1,7 @@
 ---
 title: "香港保險指南：新移民和人才簽證持有人必知的醫療、人壽與家居保險"
 description: "香港保險完全指南（繁體中文）— 自願醫保（VHIS）稅務扣減、僱主保險 vs 個人醫保比較、香港人壽保險市場特點、強積金與法定保險、租樓家居保、高才通/優才計劃人士的保險規劃建議"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hant"
 category: "living"
 canonical: "https://hkguide.org/zh-hant/living/insurance-guide"

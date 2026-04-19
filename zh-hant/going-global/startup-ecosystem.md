@@ -1,7 +1,7 @@
 ---
 title: "香港創業生態系統：創新中心、資金來源與科技創業優勢"
 description: "香港創業生態全景 — 數碼港、科技園、風投生態、獨角獸企業、大學科研商業化，以及為何香港對科技創辦人愈來愈具吸引力。"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hant"
 category: "going-global"
 last_updated: "2026-04-18"

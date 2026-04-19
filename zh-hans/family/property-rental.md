@@ -1,7 +1,7 @@
 ---
 title: "香港租房指南：地区房价、租赁合同与内地人找房攻略"
 description: "内地新移民在香港租房的完整指南，涵盖各区租金比较、租约手续、押金佣金、内地人资格要求及常用找房平台。"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hans"
 category: family
 last_updated: "2026-04-19"

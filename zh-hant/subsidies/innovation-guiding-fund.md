@@ -1,7 +1,7 @@
 ---
 title: "創新及科技基金資助指南 — 香港研發資助計劃總覽"
 description: "創新及科技基金（ITF）下的 ESS、ITSP、粵港科技合作資助等主要計劃詳解：資助範圍、金額上限、適合對象，以及與科技券（TVP）的定位比較。"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hant"
 category: "subsidies"
 last_updated: "2026-04-18"

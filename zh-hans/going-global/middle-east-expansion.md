@@ -1,7 +1,7 @@
 ---
 title: "从香港拓展至中东：迪拜、沙特阿拉伯和GCC市场的进入策略"
 description: "香港企业拓展中东市场完整指南（简体中文）— GCC六国7,000万人口/高GDP/基础建设支出、迪拜作为中东枢纽（DIFC普通法/自贸区/航空枢纽）、沙特Vision 2030带来的机遇（建设/金融/科技）、香港-GCC FTA谈判进展、清真认证需求、伊斯兰金融与香港的连接、沙特本土化要求（Saudization）、常见进入陷阱"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hans"
 category: "going-global"
 last_updated: "2026-04-18"

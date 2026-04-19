@@ -1,7 +1,7 @@
 ---
 title: "香港医疗体系指南：公立医院、私立诊所与内地人就医攻略"
 description: "内地新移民及旅港人士在香港就医的完整指南，涵盖公立私立费用比较、医疗保险选择、普通话诊所及大湾区跨境医疗最新政策。"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hans"
 category: family
 last_updated: "2026-04-19"

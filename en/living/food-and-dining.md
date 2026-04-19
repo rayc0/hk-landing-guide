@@ -1,7 +1,7 @@
 ---
 title: "Food and Dining in Hong Kong: Cha Chaan Teng, Wet Markets and the City's Unique Food Culture"
 description: "Guide to Hong Kong's food scene for new arrivals — cha chaan teng culture and what to order, wet markets vs supermarkets, dai pai dong street food, delivery apps, and navigating dietary needs in HK"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "living"
 last_updated: "2026-04-18"

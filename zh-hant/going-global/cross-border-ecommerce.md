@@ -1,7 +1,7 @@
 ---
 title: "香港跨境電商：為何香港是理想的電商樞紐"
 description: "香港發展跨境電商的獨特優勢 — 自由港地位、毗鄰深圳製造業、物流基建、支付網關，以及同時進入中國和全球市場的通道。"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "going-global"
 last_updated: "2026-04-18"

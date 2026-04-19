@@ -1,7 +1,7 @@
 ---
 title: "Setting Up a Company in Hong Kong: Limited Company, Branch Office and Business Registration"
 description: "Complete guide to company formation in Hong Kong — private limited company vs branch office vs sole proprietorship, incorporation steps, Companies Registry fees, business registration, typical timeline and costs"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "company"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "香港人脉建立指南：内地专才在港的专业网络、行业组织与社群"
 description: "香港专业人脉建立完整指南（简体中文）— 香港主要专业协会和行业组织（HKICPA/HKIB/HKICS/HK法律协会）、内地专才社群（优才协会/高才通持有人网络/同乡会）、外籍专才网络（AmCham/BritCham/EuroCham）、LinkedIn在港的使用习惯、商业活动（Fintech/初创/ESG论坛）、在港华人与本地人脉差异、非正式社交场合（运动/校友会/行业晚宴）"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hans"
 category: "talent"
 last_updated: "2026-04-18"

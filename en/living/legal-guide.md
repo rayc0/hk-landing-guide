@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Legal System Guide for New Residents and Businesses"
 description: "Complete guide to Hong Kong's legal system for newcomers and businesses — common law foundation, Legal Aid Department, Civil Legal Aid eligibility, how to find a solicitor vs barrister, Small Claims Tribunal (HK$75,000 limit), Labour Tribunal for employment disputes, typical legal costs, HKIAC arbitration, and key differences from mainland China's legal system"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "living"
 last_updated: "2026-04-18"

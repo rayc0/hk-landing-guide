@@ -1,7 +1,7 @@
 ---
 title: "香港育兒服務完整指南：幼稚園選擇、託兒所與外傭安排"
 description: "香港新移民育兒服務指南 — 本地與國際幼稚園比較、政府幼稚園教育計劃（KEP）、嬰幼兒託兒服務、課後托管，以及外傭系統如何解決雙職家庭的育兒需求"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hant"
 category: "family"
 last_updated: "2026-04-18"

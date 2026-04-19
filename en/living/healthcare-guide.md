@@ -1,7 +1,7 @@
 ---
 title: "Healthcare in Hong Kong: Public vs Private, GP Clinics and What New Arrivals Should Know"
 description: "Complete guide to healthcare for new arrivals in Hong Kong — public Hospital Authority vs private GP clinics, medical insurance options, dental care, mental health services, and how to navigate the HK healthcare system"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "en"
 category: "living"
 last_updated: "2026-04-18"

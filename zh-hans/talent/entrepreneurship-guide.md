@@ -1,7 +1,7 @@
 ---
 title: "内地专才在港创业指南：注册公司、创业签证、资金支持与香港创业生态"
 description: "香港创业完整指南（简体中文）— 在港注册公司（有限公司设立流程/费用/时间）、内地专才创业签证（IANG自雇/优才自雇/投资移民路径）、香港政府创业支持计划（Cyberport/HKSTP/创科创投基金）、香港初创生态与内地创投的差异（LP结构/GP文化/Term Sheet）、粤港澳大湾区创业优势（CEPA/前海/河套）、创业失败后的签证续签安排"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hans"
 category: "talent"
 last_updated: "2026-04-18"

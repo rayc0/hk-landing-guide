@@ -1,7 +1,7 @@
 ---
 title: "Elderly Care Services in Hong Kong: What Families Need to Know"
 description: "A comprehensive overview of Hong Kong's elderly care landscape — residential care homes, community care services, carer support, private options, and what makes HK's elderly care infrastructure accessible to relocating families."
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "family"
 last_updated: "2026-04-18"

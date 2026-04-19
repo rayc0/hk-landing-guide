@@ -1,7 +1,7 @@
 ---
 title: "内地来港子女就读安排：国际学校入学、本地学校适应与双语教育选择"
 description: "内地来港子女教育安排完整指南（简体中文）— 刚到港子女的学校选择路径（依赖人签证/等候期/即时学额）、英基学校（ESF）vs 顶级国际学校 vs 本地英文学校的对比、本地学校的语言挑战（广东话授课为主）、双语学校选项（英中并重）、子女的心理适应（语言/文化冲击）、香港各区主要国际学校名录和大概等候期"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: "living"
 last_updated: "2026-04-18"

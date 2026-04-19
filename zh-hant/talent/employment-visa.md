@@ -1,7 +1,7 @@
 ---
 title: "香港工作簽證全景：全球專業人才的機遇"
 description: "香港各類工作簽證概覽 — 一般就業政策、IANG、科技人才入境計劃、高端人才通行證，以及為何香港持續吸引全球頂尖人才。"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "talent"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Quality Migrant Admission Scheme (QMAS): A Complete Overview"
 description: "An in-depth guide to Hong Kong's QMAS — eligibility criteria, the General Points Test, Achievement-based Points Test, annual quota, and how it compares to other HK talent admission channels."
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "talent"
 last_updated: "2026-04-17"

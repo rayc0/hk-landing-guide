@@ -1,7 +1,7 @@
 ---
 title: "在香港成立公司：有限公司、分行與商業登記全指南"
 description: "香港公司成立完整指南 — 私人有限公司vs分行vs獨資經營比較、公司注冊處登記、商業登記費用、典型時間表及成本，以及香港作為國際商業樞紐的優勢"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "company"
 last_updated: "2026-04-18"

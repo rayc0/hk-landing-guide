@@ -1,7 +1,7 @@
 ---
 title: "香港法律制度指南：新移民及企業必知法律資源與法律援助"
 description: "香港法律制度完整指南 — 普通法制度基礎，法律援助署申請資格，如何尋找律師（事務律師vs大律師），小額錢債審裁處（上限75,000港元），勞資審裁處，香港仲裁中心（HKIAC），與中國大陸法律制度的主要差異，常見法律費用範圍"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hant"
 category: "living"
 last_updated: "2026-04-18"

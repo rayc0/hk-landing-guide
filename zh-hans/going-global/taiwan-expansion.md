@@ -1,7 +1,7 @@
 ---
 title: "香港作为台湾市场进入跳板：商务往来、法律架构与注意事项"
 description: "内地企业如何通过香港公司合法进入台湾市场，包括陆资认定规则、FDI限制行业、合规架构设计及商业文化要点。"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hans"
 category: "going-global"
 last_updated: "2026-04-19"

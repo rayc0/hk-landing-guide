@@ -1,7 +1,7 @@
 ---
 title: "香港職業網絡建立指南：新移民如何快速拓展人脈"
 description: "新移民在香港建立職業人脈的實用指南 — 行業協會與商會、LinkedIn使用策略、香港人脈文化特點、共用辦公空間社群、大灣區網絡延伸"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hant"
 category: "talent"
 last_updated: "2026-04-18"

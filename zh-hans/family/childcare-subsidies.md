@@ -1,7 +1,7 @@
 ---
 title: "香港托育补贴指南：免费幼稚园教育、托儿服务资助"
 description: "内地家长在港申请托育资助的完整指南，涵盖免费幼稚园计划、托儿服务资助、申请资格及私立与资助托儿所费用比较。"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hans"
 category: family
 last_updated: "2026-04-19"

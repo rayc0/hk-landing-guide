@@ -1,7 +1,7 @@
 ---
 title: "香港水電煤寬頻網絡完全指南：供應商比較、開戶流程與月費估算"
 description: "香港新移民水電煤及寬頻網絡實用指南 — 中電/港燈電費比較、煤氣與石油氣分別、水務署水費收費、HKBN/HGC/i-Cable寬頻套餐比較，以及三大電訊商3HK/CSL/SmarTone月費選擇，含各區月費估算及開戶實際費用"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "living"
 last_updated: "2026-04-18"

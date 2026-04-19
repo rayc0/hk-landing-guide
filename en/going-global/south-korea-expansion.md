@@ -1,7 +1,7 @@
 ---
 title: "Expanding into South Korea from Hong Kong: Market Entry Strategy, Key Sectors and Common Challenges"
 description: "Guide for Hong Kong businesses expanding into South Korea — Hong Kong as a Korea entry platform, K-Wave driven consumer opportunities, Samsung/Hyundai chaebol supply chain access, key sectors comparison (F&B, retail, beauty/K-beauty, fintech, logistics), Seoul vs Busan choice, and common challenges"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "en"
 category: "going-global"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Education System Guide for New Residents: Local Schools, International Schools and ESF"
 description: "Complete guide to Hong Kong's education system for relocating families — comparison of government/aided local schools vs English Schools Foundation (ESF) vs international schools, school fees table, key admission timelines, DSE vs IB vs A-Level curriculum comparison, primary and secondary school placement for expat children, and education subsidies available to new residents"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "en"
 category: "living"
 last_updated: "2026-04-18"

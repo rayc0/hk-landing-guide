@@ -1,7 +1,7 @@
 ---
 title: "香港初創融資全攻略：數碼港、科學園、政府資助與創投生態"
 description: "香港初創融資完整指南（繁體中文）— 數碼港培育計劃、香港科技園孵化計劃、InnoHK研究集群、中小企發展基金、科技業務支援計劃（TBSS）、BUD基金、香港創投生態概覽、大灣區初創走廊、科技初創A輪融資現況"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hant"
 category: "company"
 last_updated: "2026-04-18"

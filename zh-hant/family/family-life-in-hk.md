@@ -1,7 +1,7 @@
 ---
 title: "移居香港家庭生活全解析：台灣及海外華人家庭必讀"
 description: "香港家庭生活誠實概覽 — 國際學校、課外活動、治安、社群網絡、生活成本，以及為何香港對台灣、東南亞移居家庭仍具吸引力。"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hant"
 category: "family"
 last_updated: "2026-04-18"

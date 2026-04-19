@@ -1,7 +1,7 @@
 ---
 title: "Renting in Hong Kong: What Newcomers Need to Know About the Property Market"
 description: "A comprehensive overview of Hong Kong's rental market — district comparisons, typical costs, lease structures, what's included, and practical insights for newcomers navigating one of the world's most dynamic property markets."
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "en"
 category: "family"
 last_updated: "2026-04-18"

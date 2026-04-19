@@ -1,7 +1,7 @@
 ---
 title: "香港薪酬福利指南：各行業薪資水平、稅制優勢與工作邀請評估"
 description: "香港工作薪酬完整指南 — 金融、法律、科技等行業薪資參考（2025年）、薪俸稅計算優勢、住房補貼和年終獎金慣例，以及如何評估工作邀請是否具競爭力"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hant"
 category: "talent"
 last_updated: "2026-04-18"

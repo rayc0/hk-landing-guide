@@ -1,7 +1,7 @@
 ---
 title: "香港虚拟办公室：注册地址服务、邮件转寄与适用场景全解"
 description: "香港虚拟办公室完整指南（简体中文）— 虚拟办公室定义和适用场景（公司注册地址/邮件转寄/电话秘书服务）、价格区间（HK$1,500-5,000/年）、与实体办公室的对比、适合的公司类型（初创/内地企业香港子公司/自由职业者）、监管合规要求（注册地址必须是实际地址/非PO Box）、主要供应商比较、不适用场景"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hans"
 category: "company"
 last_updated: "2026-04-18"

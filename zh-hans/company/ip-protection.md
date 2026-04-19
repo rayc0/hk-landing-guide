@@ -1,7 +1,7 @@
 ---
 title: "香港知识产权保护指南：商标、专利与版权注册"
 description: "内地企业在香港保护知识产权的完整指南，涵盖商标注册费用、专利申请路径、版权保护及大湾区延伸保护机制。"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: company
 last_updated: "2026-04-19"

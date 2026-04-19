@@ -1,7 +1,7 @@
 ---
 title: "香港安老服務全攻略：家有長者的移居家庭必讀"
 description: "香港安老服務全面概覽 — 安老院舍、社區照顧、護老者支援、社署項目、私營選擇，以及為何香港安老基建對移居家庭仍具吸引力。"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hant"
 category: "family"
 last_updated: "2026-04-18"

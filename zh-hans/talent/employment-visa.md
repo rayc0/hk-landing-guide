@@ -1,7 +1,7 @@
 ---
 title: "香港工作签证指南：就业签证申请条件、所需材料与处理时间"
 description: "香港就业签证完整指南（简体中文）— 就业签证（Employment Visa）申请条件和审批标准（学历/工作经验/薪资水平/雇主担保）、申请材料清单、处理时间（4-8周）、与TTPS/QMAS/IANG的区别、内地人才常见问题（如赴港次数限制/亲属随行/换工签）、续签注意事项"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: "talent"
 last_updated: "2026-04-18"

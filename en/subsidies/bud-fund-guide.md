@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong BUD Fund: What It Is, Who It's For, and What It Can Do for Your Business"
 description: "A comprehensive guide to Hong Kong's BUD Fund (Dedicated Fund on Branding, Upgrading and Domestic Sales) — covering the Mainland and FTA programmes, eligible expenses, funding ceilings, and how SMEs can use BUD to accelerate expansion into China and ASEAN markets."
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "en"
 category: "subsidies"
 last_updated: "2026-04-17"

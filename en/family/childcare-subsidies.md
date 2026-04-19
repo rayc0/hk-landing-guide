@@ -1,7 +1,7 @@
 ---
 title: "Childcare Subsidies and Support in Hong Kong: What New Arrivals Need to Know"
 description: "Hong Kong childcare subsidies and support guide for new arrivals — childcare subsidy schemes (CCSS, Enhanced CCSS), kindergarten fee remission, after-school care options, international vs local kindergarten cost comparison, eligibility for new arrivals on talent visas"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "family"
 canonical: "https://hkguide.org/en/family/childcare-subsidies"

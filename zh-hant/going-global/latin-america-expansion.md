@@ -1,7 +1,7 @@
 ---
 title: "香港企業拓展拉丁美洲市場：巴西、墨西哥、智利的進入策略與港商優勢"
 description: "香港企業拓展拉丁美洲完整指南（繁體中文）— 巴西、墨西哥、智利、哥倫比亞的市場機遇，香港中性品牌優勢、HKTDC拉美資源、太平洋聯盟機遇、進入模式比較（本地子公司/代理商/電商）、常見陷阱（關稅壁壘/法律合規/貨幣風險/文化差異）"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hant"
 category: "going-global"
 last_updated: "2026-04-18"

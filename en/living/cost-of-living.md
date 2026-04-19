@@ -1,7 +1,7 @@
 ---
 title: "Cost of Living in Hong Kong 2026: Monthly Budget, Housing Costs by District and Saving Strategies"
 description: "Realistic cost of living guide for Hong Kong — monthly budget breakdown for singles and families, rental prices by district (HK$10,000-35,000/month range), food and dining costs, transportation expenses, school fees for expatriates, and practical money-saving strategies for new residents"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "en"
 category: "living"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "在香港开设银行账户：内地专才指南、所需文件和常见挑战"
 description: "香港银行账户指南（简体中文）— 主流银行比较（汇丰/渣打/中银香港/恒生/东亚/渣打/众安银行）、开户所需文件（香港身份证/住址证明/工作证明）、网上银行开户选项（众安/WeLab/天星银行）、内地银行账户与香港账户的关系（不可互转/跨境汇款费用）、港元账户vs外币账户、移动支付（AlipayHK/WeChat Pay HK）、信用卡申请要点"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: "living"
 last_updated: "2026-04-18"

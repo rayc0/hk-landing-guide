@@ -1,7 +1,7 @@
 ---
 title: "以香港為跳板進入印度市場：商機、優勢與實際操作策略"
 description: "為何香港是進軍印度的最佳橋頭堡——涵蓋雙邊貿易關係、行業機遇、結構性優勢及實際運營架構。"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hant"
 category: "going-global"
 canonical: "https://hkguide.org/zh-hant/going-global/india-expansion"

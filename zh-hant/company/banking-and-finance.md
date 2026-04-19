@@ -1,7 +1,7 @@
 ---
 title: "香港銀行及金融服務：企業主必須了解的金融生態"
 description: "香港銀行業全景概覽 — 主要銀行、企業戶口選擇、虛擬銀行、人民幣離岸結算中心地位，以及為何香港是亞洲首屈一指的金融中心。"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hant"
 category: "company"
 last_updated: "2026-04-18"

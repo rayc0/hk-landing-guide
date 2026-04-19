@@ -1,7 +1,7 @@
 ---
 title: "香港雇员福利指南：MPF强积金、法定假期与员工福利要求"
 description: "内地企业主在香港雇用员工的完整合规指南，涵盖强积金供款、法定假期、病假产假及雇主责任，并与内地社保制度对比。"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hans"
 category: company
 last_updated: "2026-04-19"

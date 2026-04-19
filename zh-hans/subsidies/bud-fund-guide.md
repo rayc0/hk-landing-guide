@@ -1,7 +1,7 @@
 ---
 title: "BUD专项基金详解 — 品牌升级与内销拓展最高700万港元资助"
 description: "BUD专项基金完整解析：三大计划（内地、自贸协定、电商）、累计资助上限HK$700万、申请资格。大陆企业家注册香港公司后的核心资助。"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hans"
 category: "subsidies"
 last_updated: "2026-04-17"

@@ -1,7 +1,7 @@
 ---
 title: "HKSTP and Cyberport Incubation Programmes: Hong Kong's Startup Support Ecosystem"
 description: "Complete guide to Hong Kong Science and Technology Parks (Incu-App, Incu-Tech, Incu-Bio) and Cyberport Creative Micro Fund — funding, resources, eligibility, and what startups actually get."
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "subsidies"
 last_updated: "2026-04-18"

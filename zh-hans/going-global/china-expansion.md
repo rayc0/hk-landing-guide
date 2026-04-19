@@ -1,7 +1,7 @@
 ---
 title: "内地企业利用香港进入大湾区及内地市场：CEPA与政策优惠"
 description: "详解CEPA零关税与服务业准入、大湾区前海/河套/横琴政策洼地、香港持股结构的税务规划，以及内地企业借港再进入内地的合规要点。"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hans"
 category: "going-global"
 last_updated: "2026-04-19"

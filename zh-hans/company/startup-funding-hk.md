@@ -1,7 +1,7 @@
 ---
 title: "香港创业融资指南：政府补助、VC投资与孵化器全览"
 description: "内地创业者在香港融资的完整攻略，涵盖政府科技资助、主要VC机构、天使投资网络、孵化器加速器及外国人创业签证要求。"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: company
 last_updated: "2026-04-19"

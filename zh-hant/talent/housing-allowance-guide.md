@@ -1,7 +1,7 @@
 ---
 title: "香港人才住房津貼與住宿安排：租金補貼、僱主配屋、公務員宿舍與市場行情"
 description: "香港人才住房安排完整指南（繁體中文）— 僱主住房津貼結構（租金補貼15-25%薪酬）、服務式公寓vs租盤比較、內地人才常見住宅區域（九龍塘/沙田/將軍澳）、九龍vs港島租金差異、優才計劃/TOP/IANG人才的房屋首選、按金與中介費安排、子女就學距離考量"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hant"
 category: "talent"
 last_updated: "2026-04-18"

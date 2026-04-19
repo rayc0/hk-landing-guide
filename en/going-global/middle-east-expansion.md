@@ -1,7 +1,7 @@
 ---
 title: "Expanding into the Middle East from Hong Kong: UAE, Saudi Arabia and Gulf Market Strategy"
 description: "Guide for Hong Kong businesses entering the Middle East — Hong Kong's structural advantages for Middle East expansion, UAE Dubai as the natural first market, Saudi Arabia's Vision 2030 opportunities, key sectors for HK companies, DIFC vs ADGM structure comparison, and common entry challenges"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "going-global"
 last_updated: "2026-04-18"

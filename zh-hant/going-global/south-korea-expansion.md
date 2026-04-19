@@ -1,7 +1,7 @@
 ---
 title: "以香港為跳板拓展韓國市場：韓流經濟機遇、財閥供應鏈與市場進入策略"
 description: "香港企業拓展韓國市場完整指南 — 韓流帶動的消費市場機遇、三星/現代/LG財閥供應鏈接入、重點行業比較（餐飲、K-beauty、金融科技、物流）、首爾vs釜山策略選擇，以及韓國市場常見挑戰（語言障礙、儒家商業文化）"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hant"
 category: "going-global"
 last_updated: "2026-04-18"

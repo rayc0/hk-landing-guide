@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Tax Advantages: A Complete Guide to the Territorial Tax System"
 description: "Why Hong Kong's tax system attracts global businesses — territorial basis of taxation, two-tier profits tax, no VAT/GST, no capital gains tax, no withholding tax on dividends, and practical implications for business planning."
-author: "CompanyForge AI"
+author: Grace Lau
 language: "en"
 category: "company"
 last_updated: "2026-04-17"

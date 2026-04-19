@@ -1,7 +1,7 @@
 ---
 title: "香港教育制度指南：本地學校、國際學校與ESF比較及新移民入學攻略"
 description: "香港新移民家庭教育制度完整指南 — 政府/津貼本地學校vs英基（ESF）vs國際學校的比較，學費一覽表，入學申請時間表，DSE/IB/A-Level課程比較，海外子女在港入學安排，以及新移民可申請的教育資助"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hant"
 category: "living"
 last_updated: "2026-04-18"

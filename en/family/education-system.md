@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong's Education System for Newcomer Families: International Schools, Local Schools and DSE"
 description: "Guide to Hong Kong's education system for new arrivals — international vs local schools, ESF and Direct Subsidy Schools, International Baccalaureate, DSE curriculum, university admissions, school fees and application timelines"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "family"
 last_updated: "2026-04-18"

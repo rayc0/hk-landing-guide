@@ -1,7 +1,7 @@
 ---
 title: "香港饮食文化与餐厅指南：茶餐厅、市集、内地菜和国际美食"
 description: "香港饮食完整指南（简体中文）— 茶餐厅文化（鸳鸯/港式奶茶/早餐套餐）、大排档和街边美食（油尖旺/深水埗/西营盘）、内地菜系餐厅聚集地（普通话消费者友好区）、超市采购攻略（惠康vs百佳vs日本城vs惠康）、外卖平台（Deliveroo/foodpanda/KeeTa）、香港特色食物词典（叫法不同）、清真/素食/无麸质餐厅资源、常用点餐粤语/英语对照"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: "living"
 last_updated: "2026-04-18"

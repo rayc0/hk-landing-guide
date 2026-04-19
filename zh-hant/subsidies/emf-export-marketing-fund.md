@@ -1,7 +1,7 @@
 ---
 title: "工貿署中小企業市場推廣基金（EMF）完整指南"
 description: "EMF中小企業市場推廣基金詳解 — 資助上限、合資格活動（展覽會、商貿團、網上推廣）、申請資格及與BUD基金的區別。"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hant"
 category: "subsidies"
 last_updated: "2026-04-18"

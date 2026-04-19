@@ -1,7 +1,7 @@
 ---
 title: "Expanding into Japan from Hong Kong: Market Entry Strategy, Key Sectors and Structural Advantages"
 description: "Guide for Hong Kong businesses expanding into Japan — Hong Kong as a Japan entry platform, key growth sectors (food and beverage, retail, professional services, fintech), dual-hub HK-Japan strategy, common market entry challenges, and Japan's regulatory environment"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "going-global"
 last_updated: "2026-04-18"

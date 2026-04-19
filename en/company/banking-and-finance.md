@@ -1,7 +1,7 @@
 ---
 title: "Banking and Financial Services in Hong Kong: What Businesses Need to Know"
 description: "An overview of Hong Kong's banking landscape — major banks, corporate account options, fintech ecosystem, RMB clearing hub status, and why HK remains Asia's premier financial centre."
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "company"
 last_updated: "2026-04-18"

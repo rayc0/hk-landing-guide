@@ -1,7 +1,7 @@
 ---
 title: "香港創業生態指南：數碼港、科技園、政府資助與初創企業支援"
 description: "香港創業生態完整指南 — 數碼港vs香港科技園（HKSTP）孵化計劃比較，投資推廣署（InvestHK）免費支援服務，創新科技基金（ITF）資助，天使投資人與本地風投生態，初創企業公司架構選擇，以及香港作為大灣區和東南亞業務擴張跳板的獨特優勢"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hant"
 category: "talent"
 last_updated: "2026-04-18"

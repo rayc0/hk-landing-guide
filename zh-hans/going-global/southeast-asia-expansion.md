@@ -1,7 +1,7 @@
 ---
 title: "从香港拓展至东南亚：新加坡、越南、泰国和印尼市场进入策略"
 description: "香港企业拓展东南亚市场完整指南（简体中文）— 东南亚六亿人口机遇、香港作为东南亚枢纽的独特优势（ASEAN-HK FTA/普通法协议/中立品牌定位）、新加坡（区域总部首选）、越南（制造业转移目标）、泰国（消费品市场）、印尼（最大市场/本土合作要求）、各国市场进入模式比较、常见陷阱"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: "going-global"
 last_updated: "2026-04-18"

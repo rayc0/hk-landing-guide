@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Banking Guide for New Arrivals: HSBC, Hang Seng, ZA Bank and Account Opening Requirements"
 description: "Complete guide to Hong Kong banking for new residents — comparison of HSBC, Hang Seng, Bank of China, ZA Bank and WeLab Bank, account opening requirements and documentation, typical fees and minimum balance requirements, cross-border RMB services, and mobile banking options for newcomers without a local credit history"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "living"
 last_updated: "2026-04-18"

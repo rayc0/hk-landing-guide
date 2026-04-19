@@ -1,7 +1,7 @@
 ---
 title: "香港稅務指南：新移民的薪俸稅、利得稅及強積金全解"
 description: "新移民香港稅務完整指南 — 薪俸稅運作方式、個人免稅額、稅率計算、利得稅、強積金供款義務，以及香港地域來源徵稅原則如何令外派人員及自由職業者受益"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hant"
 category: "talent"
 last_updated: "2026-04-18"

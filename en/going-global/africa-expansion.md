@@ -1,7 +1,7 @@
 ---
 title: "Expanding to Africa from Hong Kong: Key Markets, Entry Strategies, and Government Support"
 description: "Hong Kong companies expanding to Africa — key markets (Nigeria, Kenya, South Africa, Egypt), Mainland-Africa trade corridors, HKTDC Africa connections, belt-and-road infrastructure opportunities, market sizing, legal setup, common pitfalls for HK SMEs"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "en"
 category: "going-global"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "香港知識產權保護：商標、專利、版權與大灣區IP佈局策略"
 description: "香港知識產權完整指南（繁體中文）— 商標註冊（IPD香港、馬德里議定書延伸至內地）、發明專利vs短期專利、版權自動保護範圍、香港IP注册作为进入大湾区的跳板、数据保护与隐私条例、AI生成内容的IP归属、常见IP错误（域名抢注/商标侵权/版权归属）"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hant"
 category: "company"
 last_updated: "2026-04-18"

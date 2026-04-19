@@ -1,7 +1,7 @@
 ---
 title: "香港创业生态系统：数码港、科技园与初创公司在港设立枢纽"
 description: "全面解析香港创业生态，涵盖主要孵化器对比、政府资助计划、融资环境、人才签注及与深圳生态的异同，帮助内地创业者做出最优落地决策。"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: "going-global"
 last_updated: "2026-04-19"

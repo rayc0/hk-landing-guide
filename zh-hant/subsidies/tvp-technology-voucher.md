@@ -1,7 +1,7 @@
 ---
 title: "香港科技券計劃（TVP）完整指南 — 中小企數碼轉型資助"
 description: "科技券計劃（TVP）為香港中小企提供最高60萬港元資助，助企業採用科技方案提升生產力。本文介紹資助範圍、合資格方案及實際應用案例。"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hant"
 category: "subsidies"
 last_updated: "2026-04-17"

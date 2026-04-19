@@ -1,7 +1,7 @@
 ---
 title: "Children's Education in Hong Kong: School Systems, International Schools, and Pathway Planning"
 description: "A comprehensive guide to Hong Kong's education landscape for families relocating — local DSE system, IB/A-Level/AP international schools, school types, tuition costs, and university admission pathways."
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "family"
 last_updated: "2026-04-18"

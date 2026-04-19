@@ -1,7 +1,7 @@
 ---
 title: "Intellectual Property Protection in Hong Kong: A Business Advantage"
 description: "Why Hong Kong's IP framework is uniquely valuable for businesses — trademark registration, copyright protection, patent options, trade secrets law, and how HK serves as an IP holding hub for Asia operations."
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "en"
 category: "company"
 last_updated: "2026-04-18"

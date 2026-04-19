@@ -1,7 +1,7 @@
 ---
 title: "Using Hong Kong as a Gateway to India: Business Opportunities and Market Entry Strategies"
 description: "How Hong Kong serves as the ideal hub for companies expanding into India — covering bilateral trade, sector opportunities, structural advantages, and practical operating models."
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "going-global"
 canonical: "https://hkguide.org/en/going-global/india-expansion"

@@ -1,7 +1,7 @@
 ---
 title: "子女在港就學指南：國際學校、ESF、直資與政府學校完整比較"
 description: "香港子女就學完整指南（繁體中文）— ESF英基學校與國際學校學費比較、直資學校選擇、課程制度（IB/IGCSE/DSE/高考）、入學申請時間表與輪候名單、適合內地家庭的學校選擇、幼稚園至中學費用對照、居住地區與學校選區規劃"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hant"
 category: "living"
 last_updated: "2026-04-18"

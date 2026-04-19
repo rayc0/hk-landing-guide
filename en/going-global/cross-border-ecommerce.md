@@ -1,7 +1,7 @@
 ---
 title: "Cross-Border E-Commerce from Hong Kong: Why HK Is the Ideal Hub"
 description: "Why Hong Kong is uniquely positioned for cross-border e-commerce — free port status, proximity to Shenzhen manufacturing, logistics infrastructure, payment gateways, and access to both China and global markets."
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "en"
 category: "going-global"
 last_updated: "2026-04-18"

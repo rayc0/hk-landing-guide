@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Employment Law: Key Provisions Every Employer Should Know"
 description: "An overview of Hong Kong's Employment Ordinance — statutory leave, MPF, termination rules, anti-discrimination protections, and what makes HK's labour framework business-friendly yet protective."
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "company"
 last_updated: "2026-04-18"

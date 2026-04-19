@@ -1,7 +1,7 @@
 ---
 title: "Negotiating Your Hong Kong Relocation Package: What to Ask For, Market Benchmarks, and Employer Flexibility"
 description: "Complete guide to negotiating a Hong Kong relocation package — what components to request (flights/shipping/temporary housing/school fees/tax equalisation/return flights), how relocation packages differ by seniority and company type (MNC/bank/startup), market benchmarks for each component (2025), tax treatment of relocation benefits, how to handle package cuts when switching companies, diplomatic clause and early exit provisions"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "en"
 category: "talent"
 last_updated: "2026-04-18"

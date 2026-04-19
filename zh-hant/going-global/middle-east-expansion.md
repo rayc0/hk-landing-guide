@@ -1,7 +1,7 @@
 ---
 title: "以香港為跳板拓展中東市場：阿聯酋、沙特阿拉伯與香港企業機遇"
 description: "香港企業拓展中東市場完整指南 — 香港作為中東進入平台的結構性優勢、迪拜DIFC作為進入點、沙特阿拉伯Vision 2030機遇、重點行業比較表（金融服務、餐飲、零售、科技）、香港-中東雙樞紐架構設計"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hant"
 category: "going-global"
 last_updated: "2026-04-18"

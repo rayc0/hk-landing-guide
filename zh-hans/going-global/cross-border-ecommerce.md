@@ -1,7 +1,7 @@
 ---
 title: "跨境电商全球化：香港的清关优势、物流枢纽与税务筹划"
 description: "内地跨境电商如何利用香港自由港优势、全球顶级货运枢纽和低税率架构，实现高效清关、成本优化与合规出海，涵盖主流平台选择、物流模式和支付工具。"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: "going-global"
 last_updated: "2026-04-19"

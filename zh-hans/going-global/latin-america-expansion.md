@@ -1,7 +1,7 @@
 ---
 title: "香港作为拉丁美洲市场进入枢纽：贸易融资、法律架构与重点市场"
 description: "内地企业如何借助香港平台进入巴西、墨西哥、阿根廷、智利等拉美市场，涵盖法律结构、税务规划、政治风险管理与本地资源。"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hans"
 category: "going-global"
 last_updated: "2026-04-19"

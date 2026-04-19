@@ -1,7 +1,7 @@
 ---
 title: "香港交通完全指南：MTR路線、八達通卡、巴士與的士使用攻略"
 description: "新移民香港交通完整指南 — 八達通卡取得與使用、MTR主要路線、巴士與小巴系統、三色的士費用，以及渡輪和電車的實用資訊"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "living"
 last_updated: "2026-04-18"

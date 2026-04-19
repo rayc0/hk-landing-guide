@@ -1,7 +1,7 @@
 ---
 title: "Salary and Compensation in Hong Kong: What New Arrivals Need to Know"
 description: "Guide to salaries and expat compensation in Hong Kong — industry salary benchmarks by sector, housing allowances, MPF contributions, tax rates, and how to evaluate a job offer as a new arrival"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "talent"
 last_updated: "2026-04-18"

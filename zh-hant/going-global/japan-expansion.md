@@ -1,7 +1,7 @@
 ---
 title: "以香港為跳板拓展日本市場：市場進入策略、重點行業與香港企業優勢"
 description: "香港企業拓展日本市場完整指南 — 香港作為日本市場進入平台的優勢、重點行業比較（餐飲、零售、專業服務、金融科技）、東京vs大阪策略選擇、常見挑戰（語言障礙、關係文化）及雙樞紐架構設計"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hant"
 category: "going-global"
 last_updated: "2026-04-18"

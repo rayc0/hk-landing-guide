@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Employment Visa Landscape: Options for Global Professionals"
 description: "An overview of Hong Kong's employment visa categories — General Employment Policy, IANG, ASMTP, and the Top Talent Pass Scheme — what each offers, who qualifies, and why Hong Kong remains a top destination for global professionals."
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "talent"
 last_updated: "2026-04-18"

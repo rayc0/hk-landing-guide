@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Tax Guide for New Arrivals: Salaries Tax, Profits Tax and MPF"
 description: "Complete tax guide for new arrivals in Hong Kong — how salaries tax works, personal allowances, tax rates, profits tax for businesses, Mandatory Provident Fund (MPF) obligations, and how Hong Kong's territorial tax system benefits expats and freelancers"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "en"
 category: "talent"
 last_updated: "2026-04-18"

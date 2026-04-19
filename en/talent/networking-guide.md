@@ -1,7 +1,7 @@
 ---
 title: "Professional Networking in Hong Kong: Building Your Network as a New Arrival"
 description: "How new arrivals can build a professional network in Hong Kong — industry events and chambers of commerce, LinkedIn and professional associations, networking culture differences from West, co-working communities, and the importance of the GBA network"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "en"
 category: "talent"
 last_updated: "2026-04-18"

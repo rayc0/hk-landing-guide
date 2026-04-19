@@ -1,7 +1,7 @@
 ---
 title: "香港知識產權保護：企業在港發展的核心優勢"
 description: "為何香港知識產權框架對企業極具價值 — 商標註冊、版權保護、專利選項、商業秘密法律、及香港作為亞洲知識產權持有中心的優勢。"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hant"
 category: "company"
 last_updated: "2026-04-18"

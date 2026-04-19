@@ -1,7 +1,7 @@
 ---
 title: "香港科技園與數碼港孵化計劃完整指南"
 description: "HKSTP科技園Incu-App/Incu-Tech/Incu-Bio及數碼港CCMF培育計劃詳解 — 資助金額、入選條件、提供的資源與配套，適合科技初創企業。"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hant"
 category: "subsidies"
 last_updated: "2026-04-18"

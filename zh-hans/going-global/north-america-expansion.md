@@ -1,7 +1,7 @@
 ---
 title: "从香港拓展至北美：美国和加拿大的市场进入策略与监管合规"
 description: "香港企业拓展北美市场完整指南（简体中文）— 美国26万亿GDP世界最大消费市场、加拿大作为较低门槛的北美进入点、香港原产地证书和美国关税现状（2020年后变化）、美国市场进入模式（代理商/LLC/C-Corp）、美国消费品监管（FDA食品/医疗/化妆品）、加拿大省际贸易差异、FCPA反腐败合规、北美华人社区商业网络"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hans"
 category: "going-global"
 last_updated: "2026-04-18"

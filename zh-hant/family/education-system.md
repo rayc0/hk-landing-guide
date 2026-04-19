@@ -1,7 +1,7 @@
 ---
 title: "香港教育制度全解：國際學校、本地學校、直資學校與升學路徑"
 description: "新移民家庭香港教育指南 — 國際學校vs本地學校vs直資學校比較、ESF英基學校、IB課程、DSE制度、大學入學（JUPAS）路徑、學費概覽與擇校時間表"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hant"
 category: "family"
 last_updated: "2026-04-18"

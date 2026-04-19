@@ -1,7 +1,7 @@
 ---
 title: "香港搬遷福利談判指南：應要求的項目、市場基準與談判技巧"
 description: "香港搬遷福利談判完整指南（繁體中文）— 應要求的福利項目（機票/搬運費/臨時住宿/學費/稅務均等化/回程機票）、按資歷和公司類型的搬遷福利差異（跨國公司/銀行/初創企業）、各項目市場基準（2025年）、搬遷福利的稅務處理、換工作時的福利調整、外交條款與提前離港安排"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hant"
 category: "talent"
 last_updated: "2026-04-18"

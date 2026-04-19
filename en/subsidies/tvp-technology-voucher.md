@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Technology Voucher Programme (TVP): Funding Your Business Technology Upgrade"
 description: "A complete guide to Hong Kong's Technology Voucher Programme — what it funds, who qualifies, how much you can get, and why it's one of the most accessible government subsidies for SMEs in Hong Kong."
-author: "CompanyForge AI"
+author: Grace Lau
 language: "en"
 category: "subsidies"
 last_updated: "2026-04-17"

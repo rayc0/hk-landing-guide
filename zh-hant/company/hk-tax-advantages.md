@@ -1,7 +1,7 @@
 ---
 title: "香港稅務優勢完整指南 — 地域來源徵稅制度解析"
 description: "深入解析香港獨特的地域來源徵稅制度、兩級利得稅率、零增值稅、零資本增值稅及零股息預扣稅等核心優勢，並與新加坡、愛爾蘭、阿聯酋及美國作全面比較。"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "zh-hant"
 category: "company"
 last_updated: "2026-04-18"

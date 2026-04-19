@@ -1,7 +1,7 @@
 ---
 title: "利用香港进入韩国市场：法律结构、文化商业惯例与优势"
 description: "内地企业如何通过香港平台进入韩国市场，涵盖公司架构选择、税务优化、商业文化要点及 KOTRA 资源利用。"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hans"
 category: "going-global"
 last_updated: "2026-04-19"

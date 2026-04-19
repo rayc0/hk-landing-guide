@@ -1,7 +1,7 @@
 ---
 title: "Using Hong Kong as a Base for Taiwan Expansion: Advantages, Sectors and Practical Considerations"
 description: "Guide to Taiwan market expansion from Hong Kong — HK's advantages as a Taiwan entry platform, key sectors for HK-Taiwan partnerships, regulatory differences, and on-the-ground considerations for HK businesses entering Taiwan"
-author: "CompanyForge AI"
+author: Henry Cheung
 language: "en"
 category: "going-global"
 last_updated: "2026-04-18"

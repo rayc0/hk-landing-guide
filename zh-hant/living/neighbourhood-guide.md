@@ -1,7 +1,7 @@
 ---
 title: "香港各區居住指南：新移民和人才簽證持有人如何選擇合適地區"
 description: "香港各區居住完全指南（繁體中文）— 各區租金水平2025年、通勤時間、國際學校分佈、外籍人士集中度、港島/九龍/新界適合人群分析"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hant"
 category: "living"
 last_updated: "2026-04-18"

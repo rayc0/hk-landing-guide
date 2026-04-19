@@ -1,7 +1,7 @@
 ---
 title: "在香港聘請外傭：新移民必知的外籍家庭傭工制度全指南"
 description: "香港外籍家庭傭工制度新移民指南 — 外傭來源地（菲律賓、印尼）、最低工資、同住規定、標準合約、休息日安排，以及外傭如何讓雙薪家庭得以實現"
-author: "CompanyForge AI"
+author: Grace Lau
 language: "zh-hant"
 category: "family"
 last_updated: "2026-04-18"

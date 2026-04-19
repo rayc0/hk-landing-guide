@@ -1,7 +1,7 @@
 ---
 title: "香港作为印度市场进入枢纽：法规、融资与文化适应"
 description: "内地企业如何借助香港的法律隔离、税务架构和融资平台，绕开中印直接投资限制，合规进入印度这一全球最大新兴经济体，涵盖进入模式、FDI限制、税务优化与文化商业惯例。"
-author: "CompanyForge AI"
+author: Jason Wong
 language: "zh-hans"
 category: "going-global"
 last_updated: "2026-04-19"

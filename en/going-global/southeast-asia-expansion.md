@@ -1,7 +1,7 @@
 ---
 title: "Using Hong Kong as a Gateway to Southeast Asia: Singapore, Thailand and Vietnam Opportunities"
 description: "Guide to Southeast Asia market expansion from Hong Kong — HK's advantages as an ASEAN entry platform, key markets (Singapore, Thailand, Vietnam, Indonesia), sector opportunities, and practical on-the-ground considerations for HK businesses entering SEA"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "going-global"
 last_updated: "2026-04-18"

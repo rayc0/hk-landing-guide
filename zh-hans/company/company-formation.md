@@ -1,7 +1,7 @@
 ---
 title: "香港公司注册指南：设立步骤、费用、所需材料与常见问题"
 description: "香港公司注册完整指南（简体中文）— 私人有限公司注册流程（e-Registry网上申请/1-3个工作日）、注册费用（政府费用HK$1,720起）、所需材料（身份证明/地址证明/注册地址）、董事和股东要求（无国籍限制）、公司秘书要求（香港居民/法人）、法定年度申报、内地企业赴港设立子公司的额外要求"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hans"
 category: "company"
 last_updated: "2026-04-18"

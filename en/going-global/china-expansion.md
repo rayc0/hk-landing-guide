@@ -1,7 +1,7 @@
 ---
 title: "Using Hong Kong as a Gateway to China: GBA Business Opportunities, CEPA and Cross-Border Operations"
 description: "How Hong Kong businesses and new arrivals can leverage the Greater Bay Area (GBA), CEPA agreement benefits, cross-border talent flows, Qianhai and Nansha special zones, and practical considerations for China market entry via Hong Kong"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "going-global"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "Export Marketing Fund (EMF): Hong Kong's SME Marketing Subsidy Guide"
 description: "Complete guide to the EMF — funding cap, eligible activities (trade fairs, business missions, online marketing), who qualifies, and how it compares to BUD Fund and TVP."
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "subsidies"
 last_updated: "2026-04-18"

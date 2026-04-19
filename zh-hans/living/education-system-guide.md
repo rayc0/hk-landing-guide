@@ -1,7 +1,7 @@
 ---
 title: "香港教育体系指南：国际学校、本地课程、DSE与内地专才子女入学安排"
 description: "香港教育体系完整指南（简体中文）— 香港教育体制概述（幼稚园/小学/中学/大学）、本地课程（DSE）vs国际课程（IB/A-Levels/GCE）对比、英基学校（ESF）申请流程和费用、国际学校入学竞争情况（2-3年等候名单普遍存在）、内地来港子女就读安排（优才/高才通持有人的申请优先级）、IANG签证持有人子女教育权利、学校网络（School Net）对居住地选择的影响"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "zh-hans"
 category: "living"
 last_updated: "2026-04-18"

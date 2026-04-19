@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Businesses Expanding to Europe: Germany, Netherlands, UK and EU Market Entry Guide"
 description: "Guide for Hong Kong businesses entering European markets — comparison of Germany vs Netherlands vs UK as European base cities, EU regulatory requirements (GDPR, CE marking, VAT registration), fintech and startup hubs (Berlin, Amsterdam, London), talent and labour law differences, double tax treaty implications for HK companies, and sector-specific opportunities in fintech, healthtech, and sustainable products"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "going-global"
 last_updated: "2026-04-18"

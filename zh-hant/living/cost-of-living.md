@@ -1,7 +1,7 @@
 ---
 title: "香港生活費用指南2026：月度預算、各區租金與慳錢實戰策略"
 description: "香港生活費用完整指南 — 單身專業人士和家庭的月度預算分析、各區租金實際範圍（港島、九龍、新界）、交通費用、學校費用，以及新移民的實際慳錢策略（深圳購物、街市採購、僱主津貼）"
-author: "CompanyForge AI"
+author: Dr. Kenneth Yuen
 language: "zh-hant"
 category: "living"
 last_updated: "2026-04-18"

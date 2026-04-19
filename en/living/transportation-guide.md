@@ -1,7 +1,7 @@
 ---
 title: "Getting Around Hong Kong: MTR, Buses, Taxis and the Octopus Card Explained"
 description: "Complete guide to transportation in Hong Kong for new arrivals — MTR network overview, Octopus card setup, bus and minibus system, taxis and ride-hailing, ferry routes, and how to commute efficiently from different districts"
-author: "CompanyForge AI"
+author: Vivian Ho
 language: "en"
 category: "living"
 last_updated: "2026-04-18"
